@@ -1,6 +1,6 @@
 <img src = "dev2.gif" width = "350px" align = "right">
 
-# ❤ Olá, bom ter você por aqui!
+# ❤ Oii, eu sou o Bruno!
 
   <div id="badges">
   <a href = "https://github.com/risoflorais">
@@ -12,9 +12,9 @@
 
 Sou um developer iniciante, amo jogar, viajar e muito mais!
 
-- ❤ Estudante de Ciência da computação
+- ❤  Estudante de Ciência da computação
 - 💙 Amo viajar atrás de novos desafios!
-- 👩‍💻 Aprendendo algo sobre back-end
+- 👩‍💻 Desenvolvedor back-end, pretendo me tornar fullstack
 
 ---
 
