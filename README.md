@@ -3,11 +3,11 @@
 # ❤ Oii, eu sou o Bruno!
 
   <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://www.linkedin.com/in/bruno-moreira-680109209/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/9Brunodox?tab=repositories)
 </div>
 
 Sou um developer iniciante, amo jogar, viajar e muito mais!
