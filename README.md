@@ -10,7 +10,7 @@
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/9Brunodox?tab=repositories)
 </div>
 
-Sou um developer iniciante, amo jogar, viajar e muito mais!
+Sou um desenvolvedor iniciante, amo jogar, viajar e muito mais!
 
 - ❤  Estudante de Ciência da computação
 - 💙 Amo viajar atrás de novos desafios!
