@@ -1,6 +1,6 @@
 <img src = "dev2.gif" width = "350px" align = "right">
 
-# ❤ Olá!
+# ❤ Prazer, me chamo Bruno!
 
   <div id="badges">
   <a href = "https://www.linkedin.com/in/bruno-moreira-680109209/">
