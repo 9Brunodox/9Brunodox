@@ -1,6 +1,6 @@
 <img src = "dev2.gif" width = "350px" align = "right">
 
-# ❤ Oii, eu sou o Bruno!
+# ❤ Olá!
 
   <div id="badges">
   <a href = "https://www.linkedin.com/in/bruno-moreira-680109209/">
@@ -12,9 +12,9 @@
 
 Sou um desenvolvedor iniciante, amo jogar, viajar e muito mais!
 
-- ❤  Estudante de Ciência da computação
+- ❤  Formado de Ciência da computação
 - 💙 Amo viajar atrás de novos desafios!
-- 👩‍💻 Desenvolvedor back-end, pretendo me tornar fullstack
+- 👩‍💻 Desenvolvedor com foco nas tecnologias: JavaScript, TypeScript, C# e Java
 
 ---
 
