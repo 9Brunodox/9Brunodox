@@ -5,7 +5,7 @@
 </h1>
 
 <div id="badges" >
-  <a href = "mailto:bruno.moreiradasilva.2002@gmail.com">
+  <a href = "mailto:bruno@aincrad.com.br">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
   
