@@ -17,10 +17,10 @@
 
 Sou um desenvolvedor em busca de iniciar minha carreira em Front e Back-End
 
-- ❤  Formado de Ciência da computação
-- 🧡 Formado em Técnico em Informática
+- ❤  Bacharelado em Ciência da computação
+- 🧡 Técnico em Tecnologia da Informação
 - 💙 Amo viajar atrás de novos desafios!
-- 👩‍💻 Desenvolvedor com foco nas tecnologias: HTML / CSS / JavaScript / TypeScript / Java / .NET
+- 👩‍💻 Desenvolvedor com foco nas tecnologias: JavaScript / TypeScript / Angular / React
 
 - 🧠 Skills: <br><br>
   💻 » Tenho experiência em desenvolvimento Front-End usando as tecnologias: HTML, CSS e JavaScript. Também possuo conhecimento inicial em Angular, Django, Flask e SpringtBoot <br>
