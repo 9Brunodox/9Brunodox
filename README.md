@@ -18,8 +18,8 @@
 Sou um desenvolvedor em busca de iniciar minha carreira em Front e Back-End
 
 - ❤  Bacharelado em Ciência da computação
-- 🧡 Técnico em Tecnologia da Informação
-- 💙 Amo viajar atrás de novos desafios!
+- 🧡 Técnico em Informática
+- 💙 Amo viajar atrás de novos desafios e aventuras!
 - 👩‍💻 Desenvolvedor com foco nas tecnologias: JavaScript / TypeScript / Angular / React
 
 - 🧠 Skills: <br><br>
