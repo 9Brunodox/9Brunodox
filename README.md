@@ -10,7 +10,7 @@
   </a>
   
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/9Brunodox?tab=repositories)
-  <a href = "https://www.linkedin.com/in/bruno-moreira-680109209/">
+  <a href = "https://www.linkedin.com/in/bruno-moreira-da-silva-680109209/">  
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
